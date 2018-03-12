@@ -23,6 +23,7 @@
             android:name=".ItinerarySearchActivity"
             android:label="@string/search_text" />
         <activity android:name=".ItineraryListActivity" />
+        <activity android:name=".VehicleActivity" />
     </application>
 
 </manifest>
